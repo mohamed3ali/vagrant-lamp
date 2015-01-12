@@ -18,6 +18,7 @@
 # limitations under the License.
 #
 
+name             "npm"
 maintainer       "Sergey Balbeko"
 maintainer_email "sergey@balbeko.com"
 license          "Apache License, Version 2.0"
